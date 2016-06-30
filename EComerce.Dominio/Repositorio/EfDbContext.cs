@@ -20,6 +20,6 @@ namespace EComerce.Dominio.Repositorio
             modelBuilder.Entity<Produto>().ToTable("Produtos");
         }
 
-        //aula 6 15:00
+        //aula 6 17:00
     }
 }
